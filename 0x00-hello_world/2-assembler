@@ -1,2 +1,2 @@
 #!/bin/bash
-armclang -S "$CFILE".c
+gcc -c -S "$CFILE" > cee
