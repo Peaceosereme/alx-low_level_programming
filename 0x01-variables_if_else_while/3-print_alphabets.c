@@ -16,7 +16,7 @@ int main(void)
 	for (alp = 'a'; alp <= 'z'; alp++)
 		putchar(alp);
 	putchar('A');
-	for (alpp > 'A'; alpp <= 'Z'; alpp++)
+	for (alpp = 'B'; alpp <= 'Z'; alpp++)
 		putchar(alpp);
 	return (0);
 }
