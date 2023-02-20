@@ -10,6 +10,7 @@
 int main(void)
 {
 	char alp[27] = "abcdefghijklmnopqrstuvwxyzs";
+	int i;
 
 	for (i = 26; i >= 0; i--)
 	{
