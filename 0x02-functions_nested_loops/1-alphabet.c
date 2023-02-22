@@ -5,7 +5,7 @@
  * Return: 0 (success)
  */
 
-int main(void)
+int function(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
