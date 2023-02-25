@@ -4,13 +4,14 @@
  * mul - multiplies a and b.
  * @a: first integer tested
  * @b: 2nd integer
- * Return:0
+ * Return: 0
  */
 
 int mul(int a, int b)
 {
-	int mult = ((a * b));
+	int multip;
 
-	_putchar(mult + '0');
-	return (0);
+	multip = ((a * b));
+	_putchar(multip);
+	return (a, b);
 }
