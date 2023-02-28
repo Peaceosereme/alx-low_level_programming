@@ -1,1 +1,1 @@
-This is where I learn C
+Learnig pointers ASAP
