@@ -8,10 +8,18 @@
 
 void puts_half(char *str)
 {
-	int len, h, sh;
+	int len = 0;
+	int h, sh;
+	char *strh;
 
+	strh = str;
+	while (*str != '\0')
+	{
+		len++;
+		str++;
+	}
 
-	len = _strlen(str);
+	str = strh;
 	if (len % 2 == 0)
 	{
 		h = len / 2;
