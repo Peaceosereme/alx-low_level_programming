@@ -3,7 +3,7 @@
 /**
  * *leet - replacemeents, get the replacemeents
  * @s: string to be tampered with
- * Return: Always 0.
+ * Return: s.
  */
 
 char *leet(char *s)
