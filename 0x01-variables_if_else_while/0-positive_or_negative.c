@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-  * main - write smthng
+  * main - determines if rando number is positive or neg
   *
   * Return: 0 (success)
   */
