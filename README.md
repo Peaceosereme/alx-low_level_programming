@@ -1,1 +1,0 @@
-Learnig pointers ASAP
