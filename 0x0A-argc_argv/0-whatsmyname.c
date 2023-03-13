@@ -2,11 +2,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * main - as implied. Prints program name
+/**
+ * main - check the code
  * @argc: arg size
  * @argv: array of args
- * Return: 0
+ * Return: Always 0.
  */
 
 int main(int argc, char *argv[])

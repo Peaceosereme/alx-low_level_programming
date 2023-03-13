@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 
-/*
+/**
  * main - prints number of args
  * @argc: arg size
  * @argv: array of args
